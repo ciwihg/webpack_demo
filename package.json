@@ -1,0 +1,20 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "webpack-hot-dev",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.27.3",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "scripts": {
+    "dev": "webpack-dev-server --inline"
+  },
+  "author": "",
+  "license": "ISC"
+}
